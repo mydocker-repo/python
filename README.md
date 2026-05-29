@@ -8,3 +8,9 @@ main.py
 env.conf
 static/index.html
 ```
+
+
+## docker
+```
+ghcr.io/hillweb/docker-python:latest
+```
